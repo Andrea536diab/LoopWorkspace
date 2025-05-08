@@ -297,8 +297,8 @@ jobs:
           profiles \
           basal_lock \
           live_activity \
-          negative_insulin \
-          bolus_display
+          negative_insulin 
+    
 
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
